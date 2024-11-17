@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 
 # สร้างหน้าต่างหลักของ tkinter
 root = tk.Tk()
-root.title("Random Generator")  # ตั้งชื่อหน้าต่าง
+root.title("Menu")  # ตั้งชื่อหน้าต่าง
 root.geometry("300x300+500+200")  # ขนาดหน้าต่าง
 root.iconbitmap("Icons/fooddome.ico") # รูป ICon
 root.resizable(0,0) #ยืดหด
